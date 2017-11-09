@@ -28,3 +28,8 @@ The collections of awesome blog post
 # Security
 
 - [securingphp](http://securingphp.com/)
+
+# Useful collections
+
+- [Awesome PHP](https://github.com/ziadoz/awesome-php)
+- [PHP must watch](https://github.com/phptodayorg/php-must-watch)
