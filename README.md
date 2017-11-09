@@ -9,6 +9,7 @@ The collections of awesome blog post
 - [Framework applications](#framework-applications)
 - [Security](#security)
 - [Useful collections](#useful-collections)
+- [Network-related](#network-related)
 
 # Event driven
 
@@ -33,3 +34,7 @@ The collections of awesome blog post
 
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
 - [PHP must watch](https://github.com/phptodayorg/php-must-watch)
+
+# Network related
+
+- [Beautiful webapp fetch dns records](https://murze.be/2017/11/beautiful-webapp-fetch-dns-records/)
