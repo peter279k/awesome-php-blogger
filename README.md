@@ -3,12 +3,12 @@ The collections of awesome blog post
 
 # Categories
 
-- [Event driven](#Event-driven)
-- [Code refactor tips](#Code-refactor-tips)
-- [CMS or CMS plugins development](#CMS-or-CMS-plugins-development)
-- [Framework applications](#Framework-applications)
+- [Event driven](#event-driven)
+- [Code refactor tips](#code-refactor-tips)
+- [CMS or CMS plugins development](#cms-or-cms-plugins-development)
+- [Framework applications](#framework-applications)
 - [Security](#security)
-- [Useful collections](#Useful-collections)
+- [Useful collections](#useful-collections)
 
 # Event driven
 
