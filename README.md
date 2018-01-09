@@ -11,6 +11,7 @@ The collections of awesome blog post
 - [Useful collections](#useful-collections)
 - [Network-related](#network-related)
 - [File IO](#file-io)
+- [Master PHP Functions](#master-php-functions)
 
 # Event driven
 
@@ -44,3 +45,8 @@ The collections of awesome blog post
 # File IO
 
 - [How to Read Big Files with PHP (Without Killing Your Server)](https://www.sitepoint.com/performant-reading-big-files-php/?utm_content=buffere20ae&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+# Master PHP Functions
+
+- [Master Array Functions](https://www.startutorial.com/articles/view/master-php-array-functions)
+- [Master PHP DateTime](https://www.startutorial.com/articles/view/master-php-datetime)
