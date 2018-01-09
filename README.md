@@ -10,6 +10,7 @@ The collections of awesome blog post
 - [Security](#security)
 - [Useful collections](#useful-collections)
 - [Network-related](#network-related)
+- [File IO](#file-io)
 
 # Event driven
 
@@ -39,3 +40,7 @@ The collections of awesome blog post
 # Network related
 
 - [Beautiful webapp fetch dns records](https://murze.be/2017/11/beautiful-webapp-fetch-dns-records/)
+
+# File IO
+
+- [How to Read Big Files with PHP (Without Killing Your Server)](https://www.sitepoint.com/performant-reading-big-files-php/?utm_content=buffere20ae&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
