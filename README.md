@@ -12,6 +12,8 @@ The collections of awesome blog post
 - [Network-related](#network-related)
 - [File IO](#file-io)
 - [Master PHP Functions](#master-php-functions)
+- [Framework tutorials](#framework-tutorials)
+- [Web Trending](#web-trending)
 
 # Event driven
 
@@ -50,3 +52,11 @@ The collections of awesome blog post
 
 - [Master Array Functions](https://www.startutorial.com/articles/view/master-php-array-functions)
 - [Master PHP DateTime](https://www.startutorial.com/articles/view/master-php-datetime)
+
+# Framework tutorials
+
+- [Manually reconnect MySQL in CakePHP 3](https://www.startutorial.com/articles/view/manually-reconnect-mysql-in-cakephp-3)
+
+# Web trend
+
+- [web design trends 2018](https://whdb.com/blog/2017/4-web-design-trends-of-2018-and-the-award-winning-websites-already-using-them/?utm_content=bufferaf379&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
