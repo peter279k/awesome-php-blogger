@@ -39,6 +39,8 @@ The collections of awesome blog post
 - [Awesome PHP](https://github.com/ziadoz/awesome-php)
 - [PHP must watch](https://github.com/phptodayorg/php-must-watch)
 - [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm)
+- [Awesome PHP
+A curated list of awesome PHP libraries and resources](https://php.libhunt.com/)
 
 # Network related
 
