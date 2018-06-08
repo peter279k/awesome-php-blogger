@@ -14,6 +14,7 @@ The collections of awesome blog post
 - [Master PHP Functions](#master-php-functions)
 - [Framework tutorials](#framework-tutorials)
 - [Web Trending](#web-trending)
+- [Deployment](#deployment)
 
 # Event driven
 
@@ -62,3 +63,7 @@ A curated list of awesome PHP libraries and resources](https://php.libhunt.com/)
 # Web trend
 
 - [web design trends 2018](https://whdb.com/blog/2017/4-web-design-trends-of-2018-and-the-award-winning-websites-already-using-them/?utm_content=bufferaf379&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+
+# Deployment
+
+- [deploying-laravel-to-kubernetes](https://learnk8s.io/blog/deploying-laravel-to-kubernetes)
