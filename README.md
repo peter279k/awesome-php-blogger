@@ -15,6 +15,7 @@ The collections of awesome blog post
 - [Framework tutorials](#framework-tutorials)
 - [Web Trending](#web-trending)
 - [Deployment](#deployment)
+- [Coding Standard](#coding-standard)h
 
 # Event driven
 
@@ -67,3 +68,7 @@ A curated list of awesome PHP libraries and resources](https://php.libhunt.com/)
 # Deployment
 
 - [deploying-laravel-to-kubernetes](https://learnk8s.io/blog/deploying-laravel-to-kubernetes)
+
+# Coding Standard
+
+- [php-coding-standard-introduction](https://blog.sideci.com/5-php-coding-standards-you-will-love-and-how-to-use-them-adf6a4855696)
