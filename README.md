@@ -15,7 +15,8 @@ The collections of awesome blog post
 - [Framework tutorials](#framework-tutorials)
 - [Web Trending](#web-trending)
 - [Deployment](#deployment)
-- [Coding Standard](#coding-standard)h
+- [Coding Standard](#coding-standard)
+- [PHP Pacakges usage](#php-packages-usage)
 
 # Event driven
 
@@ -72,3 +73,7 @@ A curated list of awesome PHP libraries and resources](https://php.libhunt.com/)
 # Coding Standard
 
 - [php-coding-standard-introduction](https://blog.sideci.com/5-php-coding-standards-you-will-love-and-how-to-use-them-adf6a4855696)
+
+# PHP packages usage
+
+- [Carbon usage](https://scotch.io/tutorials/easier-datetime-in-laravel-and-php-with-carbon)
