@@ -36,6 +36,7 @@ The collections of awesome blog post
 # Security
 
 - [securingphp](http://securingphp.com/)
+- [managing-passwords-correct-way-php](https://www.atyantik.com/managing-passwords-correct-way-php)
 
 # Useful collections
 
