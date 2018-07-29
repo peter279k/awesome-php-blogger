@@ -17,6 +17,7 @@ The collections of awesome blog post
 - [Deployment](#deployment)
 - [Coding Standard](#coding-standard)
 - [PHP Pacakges usage](#php-packages-usage)
+- [Others](#others)
 
 # Event driven
 
@@ -78,3 +79,7 @@ A curated list of awesome PHP libraries and resources](https://php.libhunt.com/)
 # PHP packages usage
 
 - [Carbon usage](https://scotch.io/tutorials/easier-datetime-in-laravel-and-php-with-carbon)
+
+# Others
+
+- [Effective PHP](https://www.slideshare.net/VasilyKartashov/effective-php-part-1)
