@@ -71,6 +71,7 @@ A curated list of awesome PHP libraries and resources](https://php.libhunt.com/)
 # Deployment
 
 - [deploying-laravel-to-kubernetes](https://learnk8s.io/blog/deploying-laravel-to-kubernetes)
+- [php-automatic-deploy](https://www.codepicky.com/php-automatic-deploy/?utm_source=newsletter_mailer&utm_medium=email&utm_campaign=weekly)
 
 # Coding Standard
 
