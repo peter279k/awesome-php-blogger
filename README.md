@@ -85,3 +85,4 @@ A curated list of awesome PHP libraries and resources](https://php.libhunt.com/)
 
 - [Effective PHP](https://www.slideshare.net/VasilyKartashov/effective-php-part-1)
 - [PHP GD functions usage](https://code.tutsplus.com/tutorials/manipulating-images-in-php-using-gd--cms-31701?utm_source=newsletter_mailer&utm_medium=email&utm_campaign=weekly)
+- [laravel-multiple-database-connections](http://fideloper.com/laravel-multiple-database-connections)
